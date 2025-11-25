@@ -1,0 +1,5 @@
+{
+  "name": "Space Format Console",
+  "description": "A strict, minimalist console playground for the ⫻ Space format. Acts like a 'sed' or 'cat' tool for structured meta-AI outputs.",
+  "requestFramePermissions": []
+}
